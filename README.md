@@ -1,6 +1,4 @@
-<h1 align="center">Hi, I'm <a href="https://little1d.github.io/">Yang Zhuo (杨卓)</a> 👋</h1>
-
----
+👋 Hi, I'm [Yang Zhuo (杨卓)](https://little1d.github.io/).
 
 I'm a Ph.D. student at **Southeast University** and
 **Shanghai Innovation Institute**, and a research intern at **ByteDance Seed**.
@@ -15,6 +13,9 @@ foundation models and antibody design.
   - **Unified Scientific Models:** [SpecMol](https://arxiv.org/abs/2509.21861)
   - **Scientific Reasoning:** [Reasoning BO](https://arxiv.org/abs/2505.12833)
   - **Agentic RL:** [MolAct](https://arxiv.org/abs/2512.20135)
+- 🛠️ **Side Projects:** Tools I build for research and everyday productivity.
+  - **Research Tooling:** [any2bibtex](https://github.com/little1d/any2bibtex)
+  - **Time Management:** [LightFlux](https://github.com/little1d/LightFlux)
 
 ---
 
