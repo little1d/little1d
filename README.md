@@ -1,18 +1,6 @@
-<h1 align="center">Hi, I'm Yang Zhuo 👋</h1>
-
-<p align="center">
-  <b>AI for Science · Scientific Foundation Models · LLM Post-Training</b>
-</p>
-
-<p align="center">
-  <a href="https://little1d.github.io/">🌐 Personal Website</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:YOUR_EMAIL">📬 Email</a>
-</p>
+<h1 align="center">Hi, I'm <a href="https://little1d.github.io/">Yang Zhuo (杨卓)</a> 👋</h1>
 
 ---
-
-### 👨‍🔬 About Me
 
 I'm a Ph.D. student at **Southeast University** and
 **Shanghai Innovation Institute**, and a research intern at **ByteDance Seed**.
@@ -21,21 +9,14 @@ My research focuses on **AI for Science**, particularly scientific
 foundation models and antibody design.
 
 - 🧬 **AI for Science:** Antibody and molecular design, protein language models, and spectroscopy.
+  - **Antibody Design:** [ABOPD](https://arxiv.org/abs/2607.18835)
+  - **Spectroscopy:** [NMRTrans](https://doi.org/10.1145/3770855.3818935) · [SpectrumWorld](https://doi.org/10.1145/3770855.3818936)
 - 🧠 **LLMs:** Post-training, on-policy distillation, and agentic reinforcement learning.
-- 🤝 Happy to connect with researchers working on related topics!
+  - **Unified Scientific Models:** [SpecMol](https://arxiv.org/abs/2509.21861)
+  - **Scientific Reasoning:** [Reasoning BO](https://arxiv.org/abs/2505.12833)
+  - **Agentic RL:** [MolAct](https://arxiv.org/abs/2512.20135)
 
-### 🔬 Selected Projects
-
-- **[ChemClaw](https://github.com/InternScience/ChemClaw)**  
-  An agentic framework for chemistry with modular skills.
-
-- **[SpectrumLab](https://github.com/InternScience/SpectrumLab)**  
-  A unified platform for deep learning research in spectroscopy.
-
-📚 Visit my [personal website](https://little1d.github.io/)
-for publications and research updates.
-
-### 📊 GitHub Metrics
+---
 
 <p align="center">
   <img src="/github-metrics.svg" alt="GitHub metrics" width="100%">
@@ -43,7 +24,17 @@ for publications and research updates.
 
 ---
 
-<p align="center">
-  Open to research discussions and collaborations —
-  <a href="mailto:YOUR_EMAIL">get in touch</a>!
-</p>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/little1d/little1d/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/little1d/little1d/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution grid snake animation"
+    src="https://raw.githubusercontent.com/little1d/little1d/output/github-contribution-grid-snake.svg"
+  />
+</picture>
