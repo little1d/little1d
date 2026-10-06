@@ -17,6 +17,8 @@ foundation models and antibody design.
   - **Research Tooling:** [any2bibtex](https://github.com/little1d/any2bibtex)
   - **Time Management:** [LightFlux](https://github.com/little1d/LightFlux)
 
+💌 Feel free to drop me an email at [yzachary1551@gmail.com](mailto:yzachary1551@gmail.com) if you're interested.
+
 ---
 
 <p align="center">
